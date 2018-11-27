@@ -1,1 +1,0 @@
-setTimeout(function() { window.proactiveChatEnabled = true; }, 30000);
