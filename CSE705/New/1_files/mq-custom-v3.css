@@ -60,10 +60,10 @@ body {
 
 .button-standard,
 .button-standard-alt,
-.rand-class-4267,
-.rand-class-4267-alt,
-.rand-class-4267-alt:hover,
-.rand-class-4267-positive,
+.rand-class-4660,
+.button-called-out-alt,
+.button-called-out-alt:hover,
+.button-called-out-positive,
 .button-flat {
   display: inline-block;
   padding: 0.5em 0.8em;
@@ -83,18 +83,18 @@ button:hover.button-standard.searchFilter-button {
   background-image: none;
 }
 
-a:hover.button-standard.rand-class-4581 {
+a:hover.button-standard.rand-class-2295 {
   background-image: none;
 }
 
-button:hover.baseButton.rand-class-4267 {
+button:hover.baseButton.rand-class-4660 {
   background-image: none;
 }
 
-a:hover.seriesListings-footer-button.rand-class-4267.rand-class-4581,
-a:hover.rand-class-4267.rand-class-4581.facetedResults-cta,
-a:hover.button-standard-alt.tabbedBrowse-productListing-footer-button-first.rand-class-4581,
-a:hover.button-standard-alt.tabbedBrowse-accessories-button.rand-class-4581 {
+a:hover.seriesListings-footer-button.rand-class-4660.rand-class-2295,
+a:hover.rand-class-4660.rand-class-2295.facetedResults-cta,
+a:hover.button-standard-alt.tabbedBrowse-productListing-footer-button-first.rand-class-2295,
+a:hover.button-standard-alt.tabbedBrowse-accessories-button.rand-class-2295 {
   background-image: none;
 }
 
@@ -231,12 +231,12 @@ a.button.darkgray {
   border-bottom: 1px solid #ddd;
 }
 
-button.pricingSummary-button.rand-class-4267.rand-class-4581.nextStep {
+button.pricingSummary-button.rand-class-4660.rand-class-2295.nextStep {
   background-image: none;
   text-shadow: none;
 }
 
-:hover button.pricingSummary-button.rand-class-4267.rand-class-4581 {
+:hover button.pricingSummary-button.rand-class-4660.rand-class-2295 {
   background-image: none;
 }
 
@@ -246,7 +246,7 @@ button.pricingSummary-button.rand-class-4267.rand-class-4581.nextStep {
   background-image: none;
 }
 
-a:hover.cart-checkoutButtons-checkout.rand-class-4267-positive.fs1 {
+a:hover.cart-checkoutButtons-checkout.button-called-out-positive.fs1 {
   background-image: none;
   background-color: #64A81B;
 }
@@ -295,11 +295,11 @@ a.button-ribbon-small {
 
 /*accessories section */
 
-a:hover.accessoriesListing-footer-button.rand-class-4267.rand-class-4581 {
+a:hover.accessoriesListing-footer-button.rand-class-4660.rand-class-2295 {
   background-image: none;
 }
 
-a:hover.rand-class-4267.rand-class-4581 {
+a:hover.rand-class-4660.rand-class-2295 {
   background-image: none;
 }
 
@@ -315,8 +315,8 @@ a:hover.rand-class-4267.rand-class-4581 {
   border-bottom: none !important;
 }
 
-button.rand-class-4267.signInForm-submitButton,
-a.rand-class-4267.signInModule-createAccount-button {
+button.rand-class-4660.signInForm-submitButton,
+a.rand-class-4660.signInModule-createAccount-button {
   background-image: none;
   text-shadow: none;
 }

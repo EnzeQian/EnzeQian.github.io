@@ -62,15 +62,15 @@
 }
 
 .footer-icons-sprite,
-.rand-class-8380,
-.rand-class-1597,
-.rand-class-4305,
-.rand-class-8728,
+.rand-class-6328,
+.rand-class-7487,
+.rand-class-8815,
+.rand-class-8745,
 .footer-icons-m-truste-logo,
-.rand-class-1126,
+.rand-class-1224,
 .footer-icons-truste-logo,
-.rand-class-3861,
-.rand-class-8682,
+.rand-class-3256,
+.rand-class-3647,
 .trusteValidation-icon,
 .footer-icons-bk,
 .footer-icons-instagram,
@@ -82,39 +82,39 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-8380 {
+.rand-class-6328 {
   background-position: -61px 0;
 }
 
-.rand-class-8380:hover,
-.rand-class-8380.facebook-hover {
+.rand-class-6328:hover,
+.rand-class-6328.facebook-hover {
   background-position: -61px -38px;
 }
 
-.rand-class-1597 {
+.rand-class-7487 {
   background-position: -61px -76px;
 }
 
-.rand-class-1597:hover,
-.rand-class-1597.flickr-hover {
+.rand-class-7487:hover,
+.rand-class-7487.flickr-hover {
   background-position: -61px -114px;
 }
 
-.rand-class-4305 {
+.rand-class-8815 {
   background-position: -61px -152px;
 }
 
-.rand-class-4305:hover,
-.rand-class-4305.googlePlus-hover {
+.rand-class-8815:hover,
+.rand-class-8815.googlePlus-hover {
   background-position: -61px -190px;
 }
 
-.rand-class-8728 {
+.rand-class-8745 {
   background-position: -61px -228px;
 }
 
-.rand-class-8728:hover,
-.rand-class-8728.lenovoForums-hover {
+.rand-class-8745:hover,
+.rand-class-8745.lenovoForums-hover {
   background-position: -61px -266px;
 }
 
@@ -127,12 +127,12 @@
   background-position: -62px -344px;
 }
 
-.rand-class-1126 {
+.rand-class-1224 {
   background-position: -61px -384px;
 }
 
-.rand-class-1126:hover,
-.rand-class-1126.pinterest-hover {
+.rand-class-1224:hover,
+.rand-class-1224.pinterest-hover {
   background-position: -61px -422px;
 }
 
@@ -147,21 +147,21 @@
   background-position: 0 -495px;
 }
 
-.rand-class-3861 {
+.rand-class-3256 {
   background-position: -61px -530px;
 }
 
-.rand-class-3861:hover,
-.rand-class-3861.twitter-hover {
+.rand-class-3256:hover,
+.rand-class-3256.twitter-hover {
   background-position: -61px -568px;
 }
 
-.rand-class-8682 {
+.rand-class-3647 {
   background-position: -61px -606px;
 }
 
-.rand-class-8682:hover,
-.rand-class-8682.youtube-hover {
+.rand-class-3647:hover,
+.rand-class-3647.youtube-hover {
   background-position: -61px -644px;
 }
 
@@ -289,7 +289,7 @@
   margin: 1.5em 0 0 1.5em;
 }
 
-footer .rand-class-4594 {
+footer .rand-class-7574 {
   display: block;
   height: 33px;
   width: 33px;

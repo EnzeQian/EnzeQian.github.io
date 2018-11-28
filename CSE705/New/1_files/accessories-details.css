@@ -51,15 +51,15 @@ span.clearanceItem {
   display: inline;
 }
 
-.imageViewerThumbs.bottom li div a.rand-class-7155-gallery img {
+.imageViewerThumbs.bottom li div a.cloud-zoom-gallery img {
   border: 1px solid #ccc;
   height: 60px;
   width: 60px;
   margin-right: 5px;
 }
 
-.imageViewerThumbs.bottom li.selected div a.rand-class-7155-gallery img,
-.imageViewerThumbs.bottom li.hover div a.rand-class-7155-gallery img {
+.imageViewerThumbs.bottom li.selected div a.cloud-zoom-gallery img,
+.imageViewerThumbs.bottom li.hover div a.cloud-zoom-gallery img {
   border: 1px solid #cf2a23;
 }
 
